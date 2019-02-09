@@ -1,6 +1,6 @@
 # QuizApp-WebService
 
-This repository contains the web-service for the Quiz-App. Check the Quiz-App repository for use.
+This repository contains the web-service for the Quiz-App. Check the [Quiz-App repository](https://github.com/shreyasnisal/Quiz-App) for use.
 
 ## Getting Started
 
