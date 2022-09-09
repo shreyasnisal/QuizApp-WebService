@@ -1,5 +1,7 @@
 # QuizApp-WebService
 
+The Quiz-App is outdated. Please look at [VoiceQuiz-v2](https://github.com/shreyasnisal/VoiceQuiz-v2) for the redesigned app with a cleaner UI and no back-end requirements.
+
 This repository contains the web-service for the Quiz-App. Check the [Quiz-App repository](https://github.com/shreyasnisal/Quiz-App) for use.
 
 ## Getting Started
